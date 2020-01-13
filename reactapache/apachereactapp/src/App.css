@@ -1,0 +1,10 @@
+.inner-card {
+  max-width: 18rem;
+}
+.card-header {
+  text-transform: uppercase;
+}
+.card-columns {
+  margin: auto;
+  max-width: 80%;
+}
